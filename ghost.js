@@ -25,7 +25,7 @@ page.onLoadFinished = function(status) {
 
 var steps = [
   function() {
-    page.open('http://www.soundcloud.com/tatetucker');
+    page.open('http://www.soundcloud.com/technocat');
   },
   function() {
     page.injectJs("jquery1-11-1min.js");
